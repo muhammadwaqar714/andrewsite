@@ -4,12 +4,16 @@ html {
 }
 
 .dropdown-item:hover {
-  background-color: #e9e2e2 !important;
+  background-color: #0a0a0a !important;
   transition: 0.1s;
 }
 
 .dropdown-menu {
   background-color: #55555587 !important;
+}
+
+.dropdown-menu a {
+  color: white !important;
 }
 
 /* .nav-item .active {
